@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dd2edd645bb9a120557a1ecd07da0dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bf9c6d4894b5b703687f2f310ac8285/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/344aa4e6c1c9083b9a5fb9d2158163b1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5a1e8b645d1d25741f977960cdc0e6c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96c32fae73f7dc7e2ccca9af773c227d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b00e6d62ed3dee77d76bcdc356baced4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a36ce4d9afcd07573a42da88f418326e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7defd7754905ed9f16ef661abf03be7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4ea8b7991315c7c670ef508714701e27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d014c4199a9407932b3bc795cd600b7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c130f59230a2e7c1cd590c513cd432e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/78e4157394be0c7cb9a7c3b81691e027/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/87c8310c82acdac4af89221d3042425a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df1d2a4af3ec6a47f42454c6a9944898/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d9c382734e21cfb5595aeb3865a0204e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4d7d70b7e2b42ffd6a1d8eb20c0fd67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9ea06407b3b4f5291635180b244a2a33/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:11:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/344aa4e6c1c9083b9a5fb9d2158163b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/344aa4e6c1c9083b9a5fb9d2158163b1/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:17:9-65
+activity#generalactivities.LoginActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:18:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:22:27-74
+activity#fall2018.csc2017.slidingtiles.StartingActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:25:19-51
+activity#fall2018.csc2017.slidingtiles.GameActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:26:19-47
+activity#generalactivities.GameSelectionActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:27:9-76
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:27:19-73
+activity#generalactivities.MenuActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:28:9-31:72
+	android:label
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:29:13-58
+activity#fall2018.csc2017.slidingtiles.SlidingTilesScoreBoardActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:32:9-35:72
+	android:label
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:34:13-77
+	android:theme
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:33:13-59
+activity#fall2018.csc2017.slidingtiles.SlidingTilesComplexityActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:36:19-65
+activity#fall2018.csc2017.slidingtiles.DownloadingActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:37:9-57
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:37:19-54
+activity#generalactivities.SettingActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:38:19-67
+activity#fall2018.csc2017.pong.PongGameActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:39:9-75
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:39:19-72
+activity#fall2018.csc2017.pong.PongStartingActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:40:9-79
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:40:19-76
+activity#fall2018.csc2017.coldwar.ColdWarMainActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:41:9-81
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:41:19-78
+activity#fall2018.csc2017.pong.PongScoreBoardActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:42:9-81
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:42:19-78
+activity#fall2018.csc2017.coldwar.UserPiecesSelectionActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:43:9-89
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:43:19-86
+activity#fall2018.csc2017.coldwar.GuestPiecesSelectionActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:44:9-90
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:44:19-87
+activity#fall2018.csc2017.coldwar.ColdWarMenu
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:45:9-73
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:45:19-70
+activity#fall2018.csc2017.coldwar.ColdWarScoreBoardActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:46:9-87
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:46:19-84
+activity#fall2018.csc2017.coldwar.InstructionActivity
+ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:47:9-90
+	android:name
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:47:19-78
+uses-sdk
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dd2edd645bb9a120557a1ecd07da0dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dd2edd645bb9a120557a1ecd07da0dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bf9c6d4894b5b703687f2f310ac8285/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bf9c6d4894b5b703687f2f310ac8285/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/344aa4e6c1c9083b9a5fb9d2158163b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/344aa4e6c1c9083b9a5fb9d2158163b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5a1e8b645d1d25741f977960cdc0e6c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5a1e8b645d1d25741f977960cdc0e6c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96c32fae73f7dc7e2ccca9af773c227d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96c32fae73f7dc7e2ccca9af773c227d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b00e6d62ed3dee77d76bcdc356baced4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b00e6d62ed3dee77d76bcdc356baced4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a36ce4d9afcd07573a42da88f418326e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a36ce4d9afcd07573a42da88f418326e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7defd7754905ed9f16ef661abf03be7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7defd7754905ed9f16ef661abf03be7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4ea8b7991315c7c670ef508714701e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4ea8b7991315c7c670ef508714701e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d014c4199a9407932b3bc795cd600b7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d014c4199a9407932b3bc795cd600b7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c130f59230a2e7c1cd590c513cd432e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c130f59230a2e7c1cd590c513cd432e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/78e4157394be0c7cb9a7c3b81691e027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/78e4157394be0c7cb9a7c3b81691e027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/87c8310c82acdac4af89221d3042425a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/87c8310c82acdac4af89221d3042425a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df1d2a4af3ec6a47f42454c6a9944898/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df1d2a4af3ec6a47f42454c6a9944898/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d9c382734e21cfb5595aeb3865a0204e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d9c382734e21cfb5595aeb3865a0204e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4d7d70b7e2b42ffd6a1d8eb20c0fd67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4d7d70b7e2b42ffd6a1d8eb20c0fd67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9ea06407b3b4f5291635180b244a2a33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Kevin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9ea06407b3b4f5291635180b244a2a33/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kevin/StudioProjects/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
