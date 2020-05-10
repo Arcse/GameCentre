@@ -25,15 +25,7 @@ These instructions should help you get a development env running on Android Stud
 
 Clone from the Game Centre repository;
 
-```
-https://markus.teach.cs.toronto.edu/git/csc207-2018-09-reg/group_0601
-```
-
 Enter the correct directory;
-
-```
-cd group_0601/Phase2/
-```
 
 Open the project named *GameCentre* with Android Studio.
 
@@ -205,7 +197,7 @@ Thank you
 ## Warnings
 In order to test these codes properly, please use the drawable file from our submission. The themes are kept there, hence we need this file instead of the general ones.
 
-## Authors
+## Creators
 
 * **Kelvin Yao Fan**
 * **Yuwa Yokohama**
